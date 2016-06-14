@@ -1,0 +1,5 @@
+fin = open("input.txt","r")
+fout = open("output.txt","w")
+input = fin.read().split("\n")
+input.pop(0)
+print(input)

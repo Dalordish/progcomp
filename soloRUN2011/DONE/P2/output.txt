@@ -1,0 +1,4 @@
+3 5 4 is scalene & right-angled. Area = 6.0
+10 67 13 is not a triangle
+1.5 1.5 1.5 is equalateral & acute. Area = 0.9742785792574935
+4.78 9.6321 5.043 is scalene & obtuse. Area = 4.638939809338002
